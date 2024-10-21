@@ -1,0 +1,58 @@
+.left-column {
+  background-color: #fff;
+  padding: 16px;
+  text-align: center;
+  color: #000;
+}
+
+.right-column-box {
+  background-color: #fff;
+  padding: 16px;
+  text-align: center;
+  color: #000;
+}
+
+.right-column-boxes {
+  margin-bottom: 16px;
+  position: relative;
+}
+
+.laboratoryCard{
+  background-color: #E0F2F1;
+  height: 100%;
+  border-radius: 10px;
+  margin-bottom: 30px !important;
+}
+
+.leftBox{
+  height: 90%;
+  /* margin-bottom: 30px; */
+}
+
+.first-header-right-box{
+  background-color: #e5eaed;
+  height: 40px;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  left: 0;
+}
+
+.text-box{
+  margin: 50px;
+}
+
+.PaginationStyle{
+  margin-bottom: 0px 30px;
+}
+
+.css-16wblaj-MuiInputBase-input-MuiOutlinedInput-input{
+  height: .7rem !important;
+}
+
+.paginationStyle{
+  margin-top: 20px;
+}
